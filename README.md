@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 Feel free to check out my repositories, contribute to ongoing projects, or just reach out if you're interested in collaborating or chatting about tech.
 
 - 📬 **Email**: [vivekbhardwaj0222@gmail.com]
-- 🌐 **Website/Portfolio**: [viveksfreelance.tech]
+- 🌐 **Website/Portfolio**: [https://viveksfreelance.tech]
 - 📱 **LinkedIn**: []
 
 ## 📈 GitHub Stats
