@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm VIVEK BHARDWAJ! 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on modern technologies and a keen interest in **Machine Learning**. 
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on modern technologies and a keen interest in **Machine Learning**. I have a keen interest in problem solving too and have solved over **500+ Leetcode Questions**. 
 
 ## 🚀 About Me
 
@@ -30,7 +30,8 @@ Feel free to check out my repositories, contribute to ongoing projects, or just 
 
 - 📬 **Email**: [vivekbhardwaj0222@gmail.com]
 - 🌐 **Website/Portfolio**: [https://viveksfreelance.tech]
-- 📱 **LinkedIn**: []
+- 📱 **LinkedIn**: [https://linkedin.com/in/vivekbhardwaj-developer]
+- 👨🏻‍💻 **Leetcode**: [https://leetcode.com/u/vivekk01]
 
 ## 📈 GitHub Stats
 
