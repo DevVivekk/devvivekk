@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm [Your Name]! 👨‍💻
+# 👨‍💻 Hello, I'm VIVEK BHARDWAJ! 👨‍💻
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on modern technologies and a keen interest in **Machine Learning**. 
 
