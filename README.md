@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm VIVEK BHARDWAJ! 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on modern technologies and a keen interest in **Machine Learning**. I have a keen interest in problem solving too and have solved over **500+ Leetcode Questions**. 
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on modern technologies and a keen interest in **Machine Learning**. I have a keen interest in problem solving too and have solved over **500+ Leetcode Questions**. I have built my own NPM package **react-cool-popup**.
 
 ## 🚀 About Me
 
@@ -32,6 +32,7 @@ Feel free to check out my repositories, contribute to ongoing projects, or just 
 - 🌐 **Website/Portfolio**: [https://viveksfreelance.tech]
 - 📱 **LinkedIn**: [https://linkedin.com/in/vivekbhardwaj-developer]
 - 👨🏻‍💻 **Leetcode**: [https://leetcode.com/u/vivekk01]
+- </> **NPM React Cool POPUP**: [https://www.npmjs.com/package/react-cool-popup]
 
 ## 📈 GitHub Stats
 
